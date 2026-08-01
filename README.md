@@ -84,6 +84,3 @@ Future enhancements may include:
 
 Data Analyst | Educator | Excel & Power BI Enthusiast
 
----
-
-If you found this project helpful, consider giving the repository a ⭐ to support the project.
